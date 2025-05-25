@@ -1799,7 +1799,7 @@
 		(uuid "e52741f5-c461-44b5-98cb-6ed799a70654")
 	)
 	(embedded_fonts no)
-	(model "/home/martin/Kicad/kicad-sipeed-tang-core-boards/3dmodels/DF40C-60DS.stp"
+	(model "../../3dmodels/DF40C-60DS.stp"
 		(offset
 			(xyz -2.12 -7 0)
 		)
@@ -1810,7 +1810,7 @@
 			(xyz 90 -180 -90)
 		)
 	)
-	(model "/home/martin/Kicad/kicad-sipeed-tang-core-boards/3dmodels/DF40C-60DS.stp"
+	(model "../../3dmodels/DF40C-60DS.stp"
 		(offset
 			(xyz 2.12 7 0)
 		)
@@ -1821,7 +1821,7 @@
 			(xyz -90 -0 -90)
 		)
 	)
-	(model "/home/martin/Kicad/kicad-sipeed-tang-core-boards/3dmodels/Tang_Primer_25K_Step.step"
+	(model "../../3dmodels/Tang_Primer_25K_Step.step"
 		(offset
 			(xyz -11.5 -8.875 1.5)
 		)
