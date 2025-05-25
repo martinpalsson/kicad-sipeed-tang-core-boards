@@ -7,15 +7,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at -10.414 18.288 0)
+			(at -13.208 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "Tang Primer 25k"
+			(at -6.35 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
